@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxim/CLionProjects/lab1_algo/main.cpp
+iostream
+-
+cstdlib
+-
+fstream
+-
+string
+-
+vector
+-
+ctime
+-
+
