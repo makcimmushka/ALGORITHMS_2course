@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab6_algo.dir/main.cpp.o  -o lab6_algo 

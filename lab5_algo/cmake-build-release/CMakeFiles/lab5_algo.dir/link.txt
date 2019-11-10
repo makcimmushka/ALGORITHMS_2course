@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/lab5_algo.dir/main.cpp.o  -o lab5_algo 
